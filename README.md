@@ -1,7 +1,7 @@
 # LightWeight-Music-Player
 © 2023 Hatim B. (Morocco/المغرب)
 
-![alt text](https://github.com/hatimaxis/LightWeight-Music-Player/blob/main/Screenshot%20at%202023-08-30%2019-20-25.png)
+![Image](https://github.com/hatimaxis/LightWeight-Music-Player/blob/main/screenshot.png)
 
 HOW TO USE: <br>
 	Simply make a folder that contains your favorite songs.
