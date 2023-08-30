@@ -16,7 +16,7 @@ HOW TO USE:
 
 FILE FORMAT: mp3
 
-(Windows) : LightWeight Music Player.exe
-(Linux) : LightWeight Music Player (LINUX)
+(Windows) : LWMP.exe
+(Linux) : LWMP
 
 FREE AND OPEN-SOURCE NOW!
